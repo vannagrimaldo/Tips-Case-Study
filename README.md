@@ -20,6 +20,8 @@ tip: the tip amount in dollars
  
 
 Key Steps to be performed -
-Import all the necessary packages and load the dataset
-Get a brief overview of the dataset
-Explore the dataset to come up with meaningful insights
+1.Import all the necessary packages and load the dataset,
+
+2.Get a brief overview of the dataset,
+
+3.Explore the dataset to come up with meaningful insights.
