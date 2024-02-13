@@ -1,11 +1,11 @@
-#Context
+Context
 A tip is considered as a monetary incentive that is given by the customers or guests for polite, prompt, and efficient service provided by the staff. The practice of giving tips has been continuing for a very long time and has become particularly popular in service industries such as hotels and restaurants.
 
 
-#Objective
+Objective
 Chef's Kitchen is one of the most popular restaurants in the city of San Diego and acts as a one-stop destination for food lovers. The polite and efficient service provided by the restaurant staff often gets them tips from the customer. As a Data Analyst for the restaurant, you have been asked to analyze the data provided to identify the patterns and trends in the revenue and tips received from customers across different demographies and come up with informative visualizations to convey the insights obtained from the analysis.
 
-#The dataset consists of the following features:
+The dataset consists of the following features:
 
 order_id: unique identifier of each order
 day: day of the week on which the customer visited the restaurant (Thur/Fri/Sat/Sun)
